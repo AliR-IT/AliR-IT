@@ -1,5 +1,5 @@
 # Hello, I'm Ali Raza
-<a href="https://linkedin.com/in/ali-raza-223a21352"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/alir-it"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ---
 
@@ -50,10 +50,16 @@ To secure an entry-level **SOC Analyst** position where I can apply my skills in
 
 ## 🎓 Certifications
 <div>
-    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Qualys_Vulnerability_Management_Foundation-ED2B2A?&style=for-the-badge&logo=Qualys&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TryHackMe_SOC_Level_1-00AF54?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Telstra_Cyber_Security_Virtual_Experience-0072C6?&style=for-the-badge&logo=Telstra&logoColor=white" />
+    <a href="https://www.coursera.org/account/accomplishments/specialization/WWN29CTCSWBO" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certificate"/>
+  </a>
+      <img src="https://img.shields.io/badge/-Qualys_Vulnerability_Management_Foundation-ED2B2A?&style=for-the-badge&logo=Qualys&logoColor=white" alt="Qualys Certificate (no public link)"/>
+    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-H00MDJCKXH.pdf" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/-TryHackMe_SOC_Level_1-00AF54?&style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe Certificate"/>
+  </a>
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/M6JGAwZ52SMusMEcK/RNhbu8QnDzthwynEf_M6JGAwZ52SMusMEcK_P75t9DFTt3AgDM9Ac_1750151575277_completion_certificate.pdf" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/-Telstra_Cyber_Security_Virtual_Experience-0072C6?&style=for-the-badge&logo=Telstra&logoColor=white" alt="Telstra Certificate"/>
+  </a>
 </div>
 
 ---
