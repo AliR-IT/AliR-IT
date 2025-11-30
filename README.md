@@ -18,6 +18,7 @@ To secure an entry-level **SOC Analyst** position where I can apply my skills in
 | Skill | Associated Project |
 |-------|--------------------|
 | SIEM Log Ingestion and Alert Analysis |[Mini Project: SOC Home Lab - Splunk Detection](https://github.com/AliR-IT/SOC-Home-Lab---Splunk-Detection)|
+| AD Domain Monitoring & Endpoint Telemetry Analysis |[Active Directory Splunk Detection Lab](https://github.com/AliR-IT/AD-Splunk-Detection-Lab)|
 
 ---
 
@@ -66,3 +67,4 @@ To secure an entry-level **SOC Analyst** position where I can apply my skills in
 
 ## 🧩 Projects
 - [Mini Project: SOC Home Lab - Splunk Detection](https://github.com/AliR-IT/SOC-Home-Lab---Splunk-Detection)
+- [Active Directory Splunk Detection Lab](https://github.com/AliR-IT/AD-Splunk-Detection-Lab)
