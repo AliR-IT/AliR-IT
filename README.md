@@ -19,6 +19,10 @@ To secure an entry-level **SOC Analyst** position where I can apply my skills in
 |-------|--------------------|
 | SIEM Log Ingestion and Alert Analysis |[Mini Project: SOC Home Lab - Splunk Detection](https://github.com/AliR-IT/SOC-Home-Lab---Splunk-Detection)|
 | AD Domain Monitoring & Endpoint Telemetry Analysis |[Active Directory Splunk Detection Lab](https://github.com/AliR-IT/AD-Splunk-Detection-Lab)|
+| AD Log Monitoring • RDP Alerting • SIEM Detection • SOAR Automation |[Active-Directory-RDP-Alerting-SOAR-Automation-Lab](https://github.com/AliR-IT/Active-Directory-RDP-Alerting-SOAR-Automation-Lab)|
+| EDR Detection • Telemetry Analysis • SOAR Automation • Endpoint Isolation |[EDR-SOAR-Lab-LimaCharlie](https://github.com/AliR-IT/EDR-SOAR-Lab-LimaCharlie)|
+
+
 
 ---
 
@@ -37,6 +41,7 @@ To secure an entry-level **SOC Analyst** position where I can apply my skills in
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sysmon-555555?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LimaCharlie-0A0F2C?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### 📊 SIEM
@@ -45,6 +50,12 @@ To secure an entry-level **SOC Analyst** position where I can apply my skills in
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-3385FF?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+</div>
+
+### 🔄 SOAR & Automation
+<div>
+    <img src="https://img.shields.io/badge/-Tines-1A73E8?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shuffle-FF6F00?&style=for-the-badge&logoColor=white" />
 </div>
 
 ---
@@ -68,3 +79,5 @@ To secure an entry-level **SOC Analyst** position where I can apply my skills in
 ## 🧩 Projects
 - [Mini Project: SOC Home Lab - Splunk Detection](https://github.com/AliR-IT/SOC-Home-Lab---Splunk-Detection)
 - [Active Directory Splunk Detection Lab](https://github.com/AliR-IT/AD-Splunk-Detection-Lab)
+- [Active-Directory-RDP-Alerting-SOAR-Automation-Lab](https://github.com/AliR-IT/Active-Directory-RDP-Alerting-SOAR-Automation-Lab)
+- [EDR-SOAR-Lab-LimaCharlie](https://github.com/AliR-IT/EDR-SOAR-Lab-LimaCharlie)
