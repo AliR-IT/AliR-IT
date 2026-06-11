@@ -21,6 +21,7 @@ To secure an entry-level **SOC Analyst** position where I can apply my skills in
 | AD Domain Monitoring & Endpoint Telemetry Analysis |[Active Directory Splunk Detection Lab](https://github.com/AliR-IT/AD-Splunk-Detection-Lab)|
 | AD Log Monitoring • RDP Alerting • SIEM Detection • SOAR Automation |[Active-Directory-RDP-Alerting-SOAR-Automation-Lab](https://github.com/AliR-IT/Active-Directory-RDP-Alerting-SOAR-Automation-Lab)|
 | EDR Detection • Telemetry Analysis • SOAR Automation • Endpoint Isolation |[EDR-SOAR-Lab-LimaCharlie](https://github.com/AliR-IT/EDR-SOAR-Lab-LimaCharlie)|
+| Wazuh File Integrity Monitoring and VirusTotal Automated Response Lab |[Wazuh VirusTotal Automated Response Lab](https://github.com/AliR-IT/Wazuh-File-Integrity-Monitoring-and-VirusTotal-Automated-Response-Lab)|
 
 
 
@@ -81,3 +82,4 @@ To secure an entry-level **SOC Analyst** position where I can apply my skills in
 - [Active Directory Splunk Detection Lab](https://github.com/AliR-IT/AD-Splunk-Detection-Lab)
 - [Active-Directory-RDP-Alerting-SOAR-Automation-Lab](https://github.com/AliR-IT/Active-Directory-RDP-Alerting-SOAR-Automation-Lab)
 - [EDR-SOAR-Lab-LimaCharlie](https://github.com/AliR-IT/EDR-SOAR-Lab-LimaCharlie)
+- [Wazuh File Integrity Monitoring and VirusTotal Automated Response Lab](https://github.com/AliR-IT/Wazuh-File-Integrity-Monitoring-and-VirusTotal-Automated-Response-Lab)
